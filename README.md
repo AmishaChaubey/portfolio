@@ -23,5 +23,5 @@ A clean, modern personal portfolio website built with Next.js and Tailwind CSS.
 - Blog section** with my personal articles (focused on MERN stack and web development)
 
  ## 🙏 Credits
-- This portfolio was originally created by Aman. I (Amisha Chaubey) have forked and customized it to include a blog showcasing my development journey.
+- This portfolio was originally created by Amandeep Singh(amannn-s). I (Amisha Chaubey) have forked and customized it to include a blog showcasing my development journey.
 
